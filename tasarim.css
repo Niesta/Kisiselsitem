@@ -23,14 +23,14 @@ body{
 }
 .boslukalt{
     width: 1920px;
-    height: 150px
+    height: 200px
 }
 .isim-logo{
       float: right;
       margin-top:
       font-size: 1.2em;
       color: white;
-      text-decoration: line-through;
+      text-decoration: none;
 }
 
 .ggwp ul{
@@ -57,7 +57,7 @@ position: static;
 }
 
 .isim-logo{
-  text-decoration: color : blue
+  text-decoration: color : white
 }
 
 .ggwp ul li a{
@@ -112,7 +112,7 @@ position: static;
 
 .alt{
     background: none  ;
-    padding-top: 250px;
+    padding-top: 750px;
     text-align: left 50px;
     color: white;
     position:left
