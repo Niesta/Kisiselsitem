@@ -1,0 +1,125 @@
+body,h1,ul,li{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background:url(hell.jpg) #252525;
+    font-family: sans-serif;
+}
+
+.sayfa{
+    width: 1920px;
+    height: 1080px
+    margin:50px auto;
+}
+
+.bosluk{
+    width: 1920px;
+    height: 50px
+}
+
+
+}
+.boslukalt{
+    width: 1920px;
+    height: 150px
+}
+.isim-logo{
+      float: right;
+      margin-top:
+      font-size: 1.2em;
+      color: white;
+      text-decoration: line-through;
+}
+
+.ggwp ul{
+  list-style: none;
+  margin: 0;
+  padding: 0;
+position: static;
+}
+
+.ggwp li{
+  float: right;
+  position: relative;
+  width: 120px;
+  margin-right: 2px
+}
+
+.ggwp ul li ul{
+  display: none;
+}
+
+.ggwp ul li:hover ul{
+  display: block;
+}
+}
+
+.isim-logo{
+  text-decoration: color : blue
+}
+
+.ggwp ul li a{
+  text-decoration: none;
+  background: #333;
+  display: block;
+  color: white;
+  font-weight: bold;
+  font-family: sans-serif;
+  text-align: center;
+  border-bottom: 2px solid red;
+  border-left: 1px solid #595959;
+  padding: 5px;
+}
+
+.ggwp ul li ul li a{
+  background: #595959;
+  text-align: left;
+  padding: 5px;
+  border-bottom: 1px solid #333;
+  font-size: .8em;
+}
+
+.ggwp li a:hover{
+  background: rgb(248,140,0);
+  transition: .5s;
+}
+
+.ggwp ul li ul li a:hover{
+  padding-left: 15px;
+
+}
+
+.orta{
+    margin-top: 50px;
+    background: #white;
+  padding-left: 500px
+  position:absolute;
+  left: 0px;
+  top:0px;
+  z-index: -1;
+
+}
+
+.ust{
+    margin-top: 50px;
+    background: #white;
+  padding-right: 1310px;
+
+}
+
+
+.alt{
+    background: none  ;
+    padding-top: 250px;
+    text-align: left 50px;
+    color: white;
+    position:left
+
+}
+.alt a{
+     color: white;
+}
+
+}
